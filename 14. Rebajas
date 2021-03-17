@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	Escribir "Dame el precio de los tres productos que has elegido"
+	Leer precio1
+	Leer precio2
+	Leer precio3
+	Si precio1+precio2+precio3>=200 Entonces
+		Escribir (precio1+precio2+precio3)/100*(15) " euros es tu descuento porque has superado los 200 euros"
+		total<-precio1+precio2+precio3-(precio1+precio2+precio3)/100*(15)
+		Escribir "Tu precio final es " total " euros"
+		FinSi
+	Si precio1+precio2+precio3<200 Entonces
+		Escribir " Tu precio final es " precio1+precio2+precio3 " euros"
+		FinSi
+FinAlgoritmo

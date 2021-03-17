@@ -1,0 +1,10 @@
+Algoritmo sin_titulo
+	Definir variable como entero;
+	Escribir "Dime tu numero:";
+	Leer variable
+	Segun variable Hacer
+		1,2,3,4,5: Escribir "Tu numero es positivo";
+		0: Escribir "Tu numero es cero";
+		-1,-2,-3,-4,-5: Escribir "Tu numero es negativo";
+	FinSegun
+FinAlgoritmo

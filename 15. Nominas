@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Escribir "¿cuanto has trabajado esta semana?"
+	Leer horas
+	Si horas<=40 Entonces
+		Escribir " No cobrarás horas extras, tu salario es " horas*30 " euros"
+		FinSi
+	Si horas>40 Entonces 
+		Escribir " Cobrarás horas extras, " horas-40 " son tus horas extras"
+		total<- (horas*30)+(horas-40)*40
+		Escribir "Tu salario es " total " euros"
+		FinSi
+FinAlgoritmo

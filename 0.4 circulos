@@ -1,0 +1,6 @@
+Algoritmo sin_titulo
+	Escribir "Dime el radio "
+        Leer radio
+	Escribir"longitud= " radio*radio
+	Escribir"superficie= " PI*radio^2
+FinAlgoritmo

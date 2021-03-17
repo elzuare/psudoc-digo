@@ -1,0 +1,10 @@
+Algoritmo sin_titulo
+	dimension vector(5)
+	vector(1)<-"hola"
+	vector(2)<-"saludos"
+	vector(3)<-"buenas"
+	vector(4)<-"buenos días"
+	vector(5)<-"¿todo bien?"
+	n<-aleatorio(1,5)
+	Escribir vector(n)
+FinAlgoritmo

@@ -1,0 +1,5 @@
+Algoritmo sin_titulo
+	Escribir "como te llamas"
+	Leer Nombre
+	Escribir "encantado de conocerte " nombre
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo sin_titulo
+	Escribir "Dame un número"
+	Leer numero
+	Segun numero Hacer
+		2,4,6,8,10:
+			Escribir "tu numero es par"
+		1,3,5,7,9:
+			Escribir "Tu numero es impar"
+	Fin Segun
+FinAlgoritmo

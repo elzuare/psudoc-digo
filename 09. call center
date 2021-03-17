@@ -1,0 +1,13 @@
+Algoritmo sin_titulo
+	Definir numero Como Entero
+		Escribir "Está llamando a la atención al cliente de orange, pulse 1  si quiere que le ponga uno de nuestros operadores, pulse 2  si quiere notificar un problema con uno de nuestros       servicios, pulse 3 si quiere que repita el mensaje"
+	Leer numero
+	Segun numero Hacer
+		1:
+			Escribir "Le pondremos con un operador"
+		2:
+			Escribir "notifique su problema"
+		3:
+			Escribir "Está llamando a la atención al cliente de orange, pulse 1  si quiere que le ponga uno de nuestros operadores, pulse 2  si quiere notificar un problema con uno de nuestros       servicios, pulse 3 si quiere que repita el mensaje"
+	Fin Segun
+FinAlgoritmo

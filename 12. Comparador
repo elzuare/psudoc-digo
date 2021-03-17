@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	Escribir "Dame dos numero"
+	Leer numero1
+	Leer numero2
+	Si numero1=numero2 Entonces
+		Escribir "Los dos números son iguales "
+		FinSi
+		Si numero1<numero2 Entonces
+		Escribir "El primer número es más pequeño que el segundo"	
+		FinSi
+		Si numero1>numero2 Entonces
+			Escribir " El primer número es mayor que el segundo"
+	Fin Si
+FinAlgoritmo

@@ -1,0 +1,17 @@
+Algoritmo sin_titulo
+	Escribir "Dime los numeros que deseas operar, 1 sumar, 2 restar, 3 multiplicar"
+	Definir operación Como Entero
+	Escribir "Dime la operación"
+	Leer operación
+	Escribir "Dime los números"
+	Leer variable1
+	Leer variable2
+	Segun operación Hacer
+		1:
+			Escribir variable1+variable2
+		2:
+			Escribir variable1-variable2
+		3:
+			Escribir variable1*variable2
+	Fin Segun
+FinAlgoritmo

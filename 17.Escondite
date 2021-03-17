@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	Escribir "¿hasta que numero quieres que cuente?"
+	Leer numero
+	Definir cuenta Como Entero
+	Para cuenta <-numero Hasta 1 Con paso -1 Hacer
+		Escribir Sin Saltar cuenta  ,"  ";
+	FinPara
+	Escribir "Listos o no halla voy!!!"
+FinAlgoritmo

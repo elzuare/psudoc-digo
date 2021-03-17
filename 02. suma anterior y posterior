@@ -1,0 +1,4 @@
+Algoritmo sin_titulo
+	Leer numero
+	Escribir numero-1+numero+numero+1
+FinAlgoritmo

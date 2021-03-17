@@ -1,0 +1,15 @@
+Algoritmo sin_titulo
+	Escribir 'Dame los límites'
+	Escribir 'Escribe el límite1'
+	Leer a
+	Escribir 'Escribe el limite2'
+	Leer b
+	Escribir 'Escribe el número que deseas que compruebe'
+	Leer c
+	Si c>=a Y c<=B Entonces 
+		Escribir "Esta dentro del límite" 
+	Sino
+		Escribir "Esta fuera del limite"
+		FinSi
+FinAlgoritmo
+
